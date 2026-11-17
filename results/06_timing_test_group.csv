@@ -1,0 +1,15 @@
+measure,band,pct_of_cancellations
+days before arrival,0-7,5.6
+days before arrival,8-14,4.3
+days before arrival,15-30,7.2
+days before arrival,31-60,11.4
+days before arrival,61-90,10.9
+days before arrival,91-180,41.7
+days before arrival,181+,19.0
+days after booking,same day,9.5
+days after booking,1-7,20.1
+days after booking,8-14,7.7
+days after booking,15-30,9.3
+days after booking,31-60,12.3
+days after booking,61-90,10.7
+days after booking,91+,30.5

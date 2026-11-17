@@ -1,0 +1,11 @@
+hotel,lead_band,online_ta_bookings,direct_bookings,online_ta_cancel_pct,direct_cancel_pct,gap_points
+City Hotel,1: 0-7 days,4868.0,2199.0,11.8,11.0,0.8
+City Hotel,2: 8-30 days,7649.0,1189.0,34.5,20.9,13.6
+City Hotel,3: 31-90 days,11751.0,1225.0,39.7,22.2,17.5
+City Hotel,4: 91-180 days,9419.0,1005.0,43.1,19.3,23.8
+City Hotel,5: 181+ days,4888.0,364.0,52.0,24.7,27.3
+Resort Hotel,1: 0-7 days,3284.0,2879.0,6.5,5.8,0.7
+Resort Hotel,2: 8-30 days,3204.0,1086.0,26.6,17.7,8.9
+Resort Hotel,3: 31-90 days,4644.0,1140.0,39.9,19.0,20.9
+Resort Hotel,4: 91-180 days,3802.0,806.0,48.6,19.6,29.0
+Resort Hotel,5: 181+ days,2601.0,473.0,56.7,26.0,30.7

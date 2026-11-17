@@ -1,0 +1,32 @@
+lead_band,deposit_type,market_segment,bookings,cancel_pct,revenue_at_risk,high_risk
+4: 91-180 days,No Deposit,Online TA,13203,44.6,3172511.0,False
+3: 31-90 days,No Deposit,Online TA,16392,39.8,2965717.0,False
+5: 181+ days,No Deposit,Online TA,7470,53.5,2316604.0,True
+2: 8-30 days,No Deposit,Online TA,10848,32.2,1495456.0,False
+5: 181+ days,Non Refund,Groups,5073,99.9,1021503.0,True
+4: 91-180 days,Non Refund,Groups,2388,98.4,705855.0,True
+5: 181+ days,Non Refund,Offline TA/TO,2370,99.9,610672.0,True
+4: 91-180 days,Non Refund,Offline TA/TO,1601,99.9,477455.0,True
+4: 91-180 days,No Deposit,Offline TA/TO,4915,18.5,375638.0,False
+3: 31-90 days,Non Refund,Groups,1442,99.9,367503.0,True
+5: 181+ days,No Deposit,Offline TA/TO,4789,19.7,354342.0,False
+5: 181+ days,No Deposit,Groups,3921,35.9,314688.0,False
+3: 31-90 days,No Deposit,Direct,2364,20.6,277376.0,False
+3: 31-90 days,No Deposit,Offline TA/TO,4953,17.7,266120.0,False
+1: 0-7 days,No Deposit,Online TA,8123,9.3,250509.0,False
+4: 91-180 days,No Deposit,Direct,1801,19.0,244217.0,False
+2: 8-30 days,No Deposit,Direct,2266,19.2,243191.0,False
+3: 31-90 days,Non Refund,Offline TA/TO,819,100.0,230548.0,True
+3: 31-90 days,No Deposit,Groups,2442,25.4,138687.0,False
+5: 181+ days,No Deposit,Direct,837,25.4,136126.0,False
+4: 91-180 days,No Deposit,Groups,2026,26.0,107373.0,False
+1: 0-7 days,No Deposit,Direct,5073,8.0,87716.0,False
+2: 8-30 days,No Deposit,Offline TA/TO,2385,13.5,80935.0,False
+2: 8-30 days,No Deposit,Groups,1268,25.0,66527.0,False
+3: 31-90 days,No Deposit,Corporate,724,27.9,60064.0,False
+2: 8-30 days,Non Refund,Groups,230,93.9,57244.0,True
+2: 8-30 days,Non Refund,Offline TA/TO,207,100.0,48046.0,True
+1: 0-7 days,No Deposit,Offline TA/TO,1835,11.7,45163.0,False
+2: 8-30 days,No Deposit,Corporate,1303,14.6,36916.0,False
+1: 0-7 days,No Deposit,Corporate,2637,7.7,25625.0,False
+1: 0-7 days,No Deposit,Groups,599,13.0,15582.0,False

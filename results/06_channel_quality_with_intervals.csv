@@ -1,0 +1,9 @@
+market_segment,bookings,cancelled,revenue_at_risk,cancel_pct,ci_low,ci_high,share_of_bookings_pct,share_of_risk_pct,small_group_flag
+Online TA,56110,20719,10227646.11,36.9,36.5,37.3,47.8,61.1,
+Groups,19558,12073,2800543.98,61.7,61.0,62.4,16.7,16.7,
+Offline TA/TO,23887,8271,2492358.15,34.6,34.0,35.2,20.3,14.9,
+Direct,12366,1903,993409.82,15.4,14.8,16.0,10.5,5.9,
+Corporate,5213,987,196383.07,18.9,17.9,20.0,4.4,1.2,
+Aviation,231,51,16578.0,22.1,17.2,27.9,0.2,0.1,too small to quote
+Complementary,63,5,269.99,7.9,3.4,17.3,0.1,0.0,too small to quote
+Undefined,2,2,48.0,100.0,34.2,100.0,0.0,0.0,too small to quote

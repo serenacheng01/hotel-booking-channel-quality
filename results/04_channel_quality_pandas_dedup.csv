@@ -1,0 +1,9 @@
+market_segment,bookings,cancel_pct,booked_revenue,realised_revenue,revenue_at_risk,realised_per_booking
+Direct,11577,14.8,4856819.0,3927105.0,929714.0,339.2
+Offline TA/TO,13629,14.9,5416728.0,4595719.0,821009.0,337.2
+Aviation,222,19.8,83033.0,68968.0,14065.0,310.7
+Online TA,51266,35.6,22266589.0,12973687.0,9292902.0,253.1
+Groups,4721,27.9,1238548.0,922928.0,315620.0,195.5
+Corporate,4138,12.2,594164.0,483749.0,110415.0,116.9
+Complementary,62,8.1,5075.0,4805.0,270.0,77.5
+Undefined,2,100.0,48.0,0.0,48.0,0.0

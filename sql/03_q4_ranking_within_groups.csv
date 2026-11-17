@@ -1,0 +1,48 @@
+"hotel","lead_band","market_segment","bookings","cancel_pct","realised_per_booking","rank_in_group"
+City Hotel,"1: 0-7 days",Online TA,4868,11.8,230.8,1
+City Hotel,"1: 0-7 days",Direct,2199,11.0,203.1,2
+City Hotel,"1: 0-7 days",Groups,364,19.5,183.5,3
+City Hotel,"1: 0-7 days",Offline TA/TO,1020,17.9,178.4,4
+City Hotel,"1: 0-7 days",Corporate,1365,9.9,129.0,5
+City Hotel,"2: 8-30 days",Direct,1189,20.9,272.5,1
+City Hotel,"2: 8-30 days",Online TA,7649,34.5,222.3,2
+City Hotel,"2: 8-30 days",Offline TA/TO,1656,25.2,190.3,3
+City Hotel,"2: 8-30 days",Groups,1005,40.4,182.6,4
+City Hotel,"2: 8-30 days",Corporate,844,16.5,138.5,5
+City Hotel,"3: 31-90 days",Direct,1225,22.2,314.1,1
+City Hotel,"3: 31-90 days",Online TA,11751,39.7,227.9,2
+City Hotel,"3: 31-90 days",Offline TA/TO,4250,35.4,171.3,3
+City Hotel,"3: 31-90 days",Corporate,484,40.5,105.6,4
+City Hotel,"3: 31-90 days",Groups,2942,55.8,92.3,5
+City Hotel,"4: 91-180 days",Direct,1005,19.3,385.9,1
+City Hotel,"4: 91-180 days",Online TA,9419,43.1,243.4,2
+City Hotel,"4: 91-180 days",Offline TA/TO,4453,49.8,158.0,3
+City Hotel,"4: 91-180 days",Corporate,231,62.8,70.8,4
+City Hotel,"4: 91-180 days",Groups,3055,69.5,58.7,5
+City Hotel,"5: 181+ days",Direct,364,24.7,314.5,1
+City Hotel,"5: 181+ days",Online TA,4888,52.0,197.9,2
+City Hotel,"5: 181+ days",Offline TA/TO,5132,55.0,121.8,3
+City Hotel,"5: 181+ days",Groups,6465,83.0,43.3,4
+Resort Hotel,"1: 0-7 days",Online TA,3284,6.5,180.7,1
+Resort Hotel,"1: 0-7 days",Direct,2879,5.8,149.2,2
+Resort Hotel,"1: 0-7 days",Groups,275,14.9,126.0,3
+Resort Hotel,"1: 0-7 days",Offline TA/TO,825,5.0,120.7,4
+Resort Hotel,"1: 0-7 days",Corporate,1315,7.6,69.3,5
+Resort Hotel,"2: 8-30 days",Direct,1086,17.7,374.4,1
+Resort Hotel,"2: 8-30 days",Online TA,3204,26.6,275.9,2
+Resort Hotel,"2: 8-30 days",Offline TA/TO,937,11.8,260.3,3
+Resort Hotel,"2: 8-30 days",Groups,515,24.7,150.1,4
+Resort Hotel,"2: 8-30 days",Corporate,507,19.1,127.0,5
+Resort Hotel,"3: 31-90 days",Direct,1140,19.0,568.3,1
+Resort Hotel,"3: 31-90 days",Offline TA/TO,1522,12.5,419.0,2
+Resort Hotel,"3: 31-90 days",Online TA,4644,39.9,304.2,3
+Resort Hotel,"3: 31-90 days",Groups,943,44.5,156.3,4
+Resort Hotel,"3: 31-90 days",Corporate,388,37.9,121.7,5
+Resort Hotel,"4: 91-180 days",Direct,806,19.6,774.9,1
+Resort Hotel,"4: 91-180 days",Offline TA/TO,2063,14.1,530.6,2
+Resort Hotel,"4: 91-180 days",Online TA,3802,48.6,331.2,3
+Resort Hotel,"4: 91-180 days",Groups,1443,53.0,144.3,4
+Resort Hotel,"5: 181+ days",Direct,473,26.0,704.7,1
+Resort Hotel,"5: 181+ days",Offline TA/TO,2029,24.2,507.5,2
+Resort Hotel,"5: 181+ days",Online TA,2601,56.7,308.6,3
+Resort Hotel,"5: 181+ days",Groups,2551,43.6,165.0,4
