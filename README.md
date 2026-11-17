@@ -159,4 +159,4 @@ I used an AI assistant to draft code, SQL and the first version of the memo. I r
 
 ## Author
 
-Serena Cheng. [LinkedIn](https://www.linkedin.com/in/serenacheng95)
+Serena Cheng.
